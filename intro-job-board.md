@@ -50,7 +50,7 @@ Run [express-generator](https://expressjs.com/en/starter/generator.html) boilerp
 - The `--view=hbs` add handlebars templating engine on our project. You can use different template engine check the documentation.
 - `job-board` creates our directory
 
-![express-generator](Screenshot_20220726-075716.png)
+![express-generator](./img/Screenshot_20220726-075716.png)
 
 From terminal  enter job-board folder and install dependency if any error follow given instructions
 
