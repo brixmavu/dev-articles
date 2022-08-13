@@ -8,7 +8,7 @@ tags:
 ---
 
 ### Job Board Project
-1. [Introduction Job Board CRUD app](#example)
+1. [Introduction Job Board CRUD app](#job-board-crud-app)
 2. [Job Board - Express Setup and UI](#example2)
 3. [Handlebars in Express](#third-example) - ToDo
 4. [Working with forms](#fourth-example)
@@ -115,7 +115,7 @@ We going to use sticky footer using CSS grid from [mdn](https://raw.githubuserco
 
 Result:
 
-![mdn result](https://github.com/brixmavu/dev-articles/tree/main/img/Screenshot_20220726-154716.png)
+![mdn result](./img/Screenshot_20220726-154716.png)
 
 ### Job Board UI
 
@@ -188,5 +188,5 @@ label {
 
 Result
 
-![job-board-ui](https://github.com/brixmavu/dev-articles/tree/main/img/Screenshot_20220730-063733.png)
+![job-board-ui](./img/Screenshot_20220730-063733.png)
 
