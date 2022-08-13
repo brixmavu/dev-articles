@@ -98,7 +98,7 @@ Inside project add nodejs dependencies
 
 Start server script `npm start`  and check your browser
 
-![First web look](./img/Screenshot_20220726-154716.png)
+![First web look](./img/Screenshot_20220813-055141.png)
 
 ### Frontend - HTML and CSS
 
