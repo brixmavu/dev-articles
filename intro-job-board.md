@@ -58,7 +58,7 @@ Run [express-generator](https://expressjs.com/en/starter/generator.html) boilerp
 - The `--view=hbs` add handlebars templating engine on our project. You can use different template engine check the documentation.
 - `job-board` creates our directory
 
-![express-generator](https://github.com/brixmavu/dev-articles/tree/main/img/Screenshot_20220726-075716.png)
+![express-generator](./img/Screenshot_20220726-075716.png)
 
 From terminal  enter job-board folder and install dependency if any error follow given instructions
 
@@ -98,7 +98,7 @@ Inside project add nodejs dependencies
 
 Start server script `npm start`  and check your browser
 
-![First web look](https://github.com/brixmavu/dev-articles/tree/main/img/Screenshot_20220813-055141.png)
+![First web look](./img/Screenshot_20220813-055141.png)
 
 ### Frontend - HTML and CSS
 
