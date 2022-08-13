@@ -70,7 +70,7 @@ From this
 Run app from termux inside job-board folder
 `npm start` 
 
-![handlebars showing data](Screenshot_20220731-131936.png)
+![handlebars showing data](./img/Screenshot_20220731-131936.png)
 
 The app still look the same but under the hood handlebars is doing its thing.
 
@@ -125,7 +125,7 @@ Inside /views folder open index.js and make handlebars to iterate through data b
 
 Result
 
-![hbs each helper](Screenshot_20220731-234659.png)
+![hbs each helper](./img/Screenshot_20220731-234659.png)
 
 ### Handlebars (  hbs partials )
 
@@ -143,4 +143,4 @@ From project folder go inside /views folder and create a folder called /partials
 
 Folder should look like below
 
-![Screenshot_20220803-172706](Screenshot_20220803-172706.png)
+![Screenshot_20220803-172706](./img/Screenshot_20220803-172706.png)
